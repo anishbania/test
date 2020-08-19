@@ -1,1 +1,2 @@
-wn.color("yellow")
+num="code"
+print(str[:1])
